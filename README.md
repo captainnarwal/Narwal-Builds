@@ -147,4 +147,4 @@ I’m sharing the whole thing on YouTube: [@narwalbuilds](https://www.youtube.co
 
 **This is my build, my mistakes, my wins. If you’re building your own, steal my format, improve it, and let me know how it goes!**
 
-[Phase 1 →](phase_1.md)
+[Planning →](phase_0.md)
