@@ -1,108 +1,104 @@
-# Tools List - Mitsubishi Cedia Sports Turbo Build
 
-This document contains all tools required for the complete turbocharged street build of a Mitsubishi Cedia Sports Rally Edition. Prices are estimated in INR.
+# 🔨 Tools List – Cedia Turbo Build
 
-## Basic Hand Tools
+[← Back to README](README.md)
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Socket Set | 8mm-19mm Metric | ₹1,500 - ₹3,000 | Complete set |
-| Ratchet | 1/2" Drive | ₹300 - ₹600 | With extensions |
-| Spanner Set | Combination 8-24mm | ₹800 - ₹1,500 | Double-ended |
-| Screwdrivers | Flat & Phillips Set | ₹200 - ₹400 | Mixed sizes |
-| Pliers | Combination | ₹150 - ₹300 | Multiple types |
+This is my real, evolving list of tools for the Cedia turbo build. I update this as I go—what worked, what broke, what I wish I'd bought sooner, and what I could have rented. If you're following along, use this as a checklist and add your own notes.
 
-## Lifting & Support Equipment
+---
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Hydraulic Jack | 2-3 Ton | ₹2,000 - ₹4,000 | Car compatible |
-| Jack Stands | Pair (2-4 Ton) | ₹1,000 - ₹2,000 | Safety critical |
-| Lug Wrench | Cross Pattern | ₹300 - ₹600 | Wheel removal |
-| Impact Wrench | 1/2" Drive | ₹3,000 - ₹6,000 | Optional but useful |
+## 🛠️ Basic Hand Tools
+| Tool | Spec/Brand | Price (INR) | My Notes |
+|------|------------|-------------|----------|
+| Socket Set | 8–19mm, Stanley | 2,000 | Used for almost everything. Don’t cheap out. |
+| Ratchet | 1/2" Drive | 500 | Extensions are a must. |
+| Spanner Set | 8–24mm | 1,200 | Double-ended, lifesaver for tight spots. |
+| Screwdrivers | Flat & Phillips | 300 | Get a set, not just one. |
+| Pliers | Combo, needle, cutting | 300 | Used for wiring, hoses, and more. |
 
-## Specialized Tools
+## 🏋️ Lifting & Support
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Hydraulic Jack | 2–3 Ton | 3,000 | Never work under a car with just a jack! |
+| Jack Stands | 2–4 Ton, pair | 1,500 | Safety first. |
+| Lug Wrench | Cross | 400 | Makes wheel removal easy. |
+| Impact Wrench | 1/2" Drive | 4,000 | Not required, but a huge time saver. |
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Torque Wrench | 1/2" Drive 20-150 ft-lb | ₹2,000 - ₹4,000 | VERY IMPORTANT |
-| Spark Plug Socket | With Rubber Insert | ₹200 - ₹400 | Prevents damage |
-| Oil Filter Wrench | Adjustable | ₹300 - ₹600 | Filter removal |
-| Brake Bleeding Kit | Manual/Vacuum | ₹500 - ₹1,000 | Brake service |
-| C-Clamp | Caliper Compressor | ₹400 - ₹800 | Brake caliper work |
+## 🔧 Specialized Tools
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Torque Wrench | 20–150 ft-lb | 3,000 | For all critical bolts. |
+| Spark Plug Socket | With rubber | 300 | Don’t crack your plugs! |
+| Oil Filter Wrench | Adjustable | 400 | Oil changes are messy enough. |
+| Brake Bleeding Kit | Manual | 800 | Makes brake jobs solo possible. |
+| C-Clamp | Caliper | 500 | For brake jobs. |
 
-## Fabrication & Metalworking Tools
+## 🏗️ Fabrication & Metalwork
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Angle Grinder | 4" | 2,000 | For cutting, shaping. |
+| Welding Machine | MIG/Stick | 10,000 | I might rent this if I do it again. |
+| Drill Machine | Cordless 18V | 4,000 | For brackets, mounts, etc. |
+| Metal Drill Bits | HSS | 400 | Go slow, use oil. |
+| Wire Brush | For grinder | 150 | For cleaning rust, paint. |
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Angle Grinder | 4" with Cutting Discs | ₹1,500 - ₹3,000 | Metal cutting |
-| Welding Machine | MIG/Stick (or use local) | ₹8,000 - ₹15,000 | For custom work |
-| Drill Machine | Cordless 18V | ₹3,000 - ₹6,000 | Hole making |
-| Metal Drill Bits | Assorted Sizes | ₹300 - ₹600 | HSS bits |
-| Wire Brush | For Grinder | ₹100 - ₹200 | Surface prep |
+## 🏎️ Suspension & Brake Tools
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Spring Compressor | Coil | 2,000 | Scary but necessary for springs. |
+| Breaker Bar | 1/2" Drive | 600 | For stuck bolts. |
+| Ball Joint Separator | Fork | 400 | Saves your knuckles. |
+| Tie Rod Tool | Internal/External | 600 | For steering work. |
 
-## Suspension & Brake Tools
+## 🎨 Body & Paint
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Sanding Block | Rubber | 150 | For even sanding. |
+| Spray Gun | HVLP | 3,000 | For paint, if DIY. |
+| Heat Gun | 1500W | 1,000 | For wraps, liner. |
+| Buffing Machine | Dual Action | 4,000 | For final finish. |
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Spring Compressor | Coil Spring | ₹1,500 - ₹3,000 | If using springs |
-| Breaker Bar | 1/2" Drive | ₹400 - ₹800 | Tight bolt removal |
-| Ball Joint Separator | Fork Type | ₹300 - ₹600 | Suspension work |
-| Tie Rod End Tool | Internal/External | ₹400 - ₹800 | Steering components |
+## 🧰 Interior & Detailing
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Trim Tools | Plastic set | 300 | Don’t break clips! |
+| Staple Gun | Heavy | 700 | For roof liner. |
+| Microfiber Cloths | Pack of 10 | 300 | For all cleaning. |
+| Funnel | Large | 80 | For fluids. |
+| Oil Drain Pan | 5L | 200 | No more spills. |
 
-## Body Work & Painting Tools
+## 🧪 Diagnostics & Testing
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| OBD Scanner | Basic | 1,500 | For codes, peace of mind. |
+| Compression Tester | Petrol | 1,200 | Check engine health. |
+| Boost Leak Tester | DIY | 700 | Will build my own. |
+| Vacuum Pump | Handheld | 400 | For brakes, testing. |
+| Multimeter | Digital | 700 | For all wiring. |
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Sanding Block | Soft Rubber | ₹100 - ₹200 | Even sanding |
-| Spray Gun | HVLP Gravity Feed | ₹2,000 - ₹4,000 | Paint application |
-| Heat Gun | 1500W | ₹800 - ₹1,500 | Plastic work |
-| Buffing Machine | Dual Action | ₹3,000 - ₹6,000 | Paint finishing |
+## 🦺 Safety & Organization
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Work Light | LED | 700 | You can’t fix what you can’t see. |
+| Gloves | Nitrile | 300 | Save your hands. |
+| Safety Glasses | Clear | 150 | Eyes are priceless. |
+| Magnetic Tray | Small | 200 | Don’t lose bolts. |
+| Tool Box | Portable | 1,500 | Keep it all together. |
 
-## Interior & Detailing Tools
+## 🏠 Workspace
+| Tool | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Workbench | Folding | 3,000 | For assembly, layout. |
+| Creeper | Mechanic’s | 1,200 | For under-car work. |
+| Parts Washer | Plastic | 700 | For cleaning. |
+| Air Compressor | 2HP | 10,000 | Only if painting/fab. |
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Trim Removal Tools | Plastic Pry Set | ₹200 - ₹400 | Panel removal |
-| Staple Gun | Heavy Duty | ₹500 - ₹1,000 | Roof liner |
-| Microfiber Cloths | Pack of 10 | ₹200 - ₹400 | Detailing |
-| Funnel | Large Plastic | ₹50 - ₹100 | Fluid transfer |
-| Oil Drain Pan | Plastic 5L | ₹150 - ₹300 | Fluid collection |
+---
 
-## Diagnostic & Testing Tools
+## 📝 Ongoing Notes
+- I’ll add new tools as I need them.
+- If something breaks, I’ll log it here.
+- If I regret buying (or not buying) something, I’ll say so.
+- If I rent/borrow, I’ll note it.
 
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| OBD Scanner | Basic Code Reader | ₹1,000 - ₹2,500 | Error code reading |
-| Compression Tester | Petrol Engine | ₹800 - ₹1,500 | Engine health |
-| Boost Leak Tester | DIY Version | ₹500 - ₹1,000 | Turbo system |
-| Vacuum Pump | Handheld | ₹300 - ₹600 | Brake bleeding |
-| Multimeter | Digital | ₹500 - ₹1,000 | Electrical testing |
-
-## Safety & Organization Tools
-
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Work Light | LED Rechargeable | ₹500 - ₹1,000 | Better visibility |
-| Gloves | Nitrile/Latex | Pack of 50 | ₹200 - ₹400 | Hand protection |
-| Safety Glasses | Clear Lens | ₹100 - ₹200 | Eye protection |
-| Magnetic Tray | Parts Organizer | ₹150 - ₹300 | Bolt organization |
-| Tool Box | Portable | ₹1,000 - ₹2,000 | Tool storage |
-
-## Workspace Equipment
-
-| Tool | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Workbench | Folding | ₹2,000 - ₹4,000 | Work surface |
-| Creeper | Mechanic's | ₹800 - ₹1,500 | Under-car access |
-| Parts Washer | Plastic Basin | ₹500 - ₹1,000 | Parts cleaning |
-| Air Compressor | 2HP Portable | ₹8,000 - ₹15,000 | Optional but useful |
-
-## Notes
-- Prices are estimates and may vary based on brand and location
-- Start with basic tools and acquire specialized ones as needed
-- Quality matters - invest in good brands for longevity
-- Consider tool rental for expensive or rarely used items
-- Always use tools for their intended purpose to avoid damage
-- Regular maintenance of tools ensures longer life
-- Some tools may be available for rent at local garages
+**If you’re using this, add your own notes as you go!**

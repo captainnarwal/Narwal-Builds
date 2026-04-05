@@ -1,97 +1,84 @@
-# Consumables List - Mitsubishi Cedia Sports Turbo Build
 
-This document contains all consumables required for the complete turbocharged street build of a Mitsubishi Cedia Sports Rally Edition. Prices are estimated in INR.
+# 🧴 Consumables List – Cedia Turbo Build
 
-## Fluids
+[← Back to README](README.md)
 
-| Item | Specification | Quantity | Estimated Price (INR) | Notes |
-|------|---------------|----------|----------------------|-------|
-| Engine Oil | 5W-30/10W-30 Fully Synthetic | 4 Litres | ₹800 - ₹1,500 | Shell/Motul/Mobil preferred |
-| Gear Oil | 75W-90 | 2-2.5 Litres | ₹400 - ₹800 | Manual transmission |
-| Coolant | Long-life Pre-mix | 3-4 Litres | ₹300 - ₹600 | Use long-life coolant |
-| Brake Fluid | DOT 4 | 500ml-1L | ₹150 - ₹300 | High performance recommended |
-| Power Steering Fluid | ATF/OEM Spec | 1 Litre | ₹200 - ₹400 | Check compatibility |
+This is my real, evolving list of all the stuff that gets used up, spilled, or stuck to my hands during the Cedia build. I update this as I go—what worked, what was a waste, and what I wish I'd bought in bulk. Use this as your own checklist and add your own notes.
 
-## Cleaning Products
+---
 
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Throttle Body Cleaner | Aerosol Spray | ₹200 - ₹400 | Clean throttle body |
-| Carb Cleaner | Aerosol Spray | ₹150 - ₹300 | General engine cleaning |
-| MAF/MAP Sensor Cleaner | Sensor-Safe | ₹250 - ₹500 | Safe for sensors |
-| Brake Cleaner Spray | Fast Evaporating | ₹150 - ₹300 | Clean rotors/calipers |
-| Engine Degreaser | Heavy Duty | ₹200 - ₹400 | Engine bay cleaning |
+## 🛢️ Fluids
+| Item | Spec/Brand | Qty | Price (INR) | My Notes |
+|------|------------|-----|-------------|----------|
+| Engine Oil | 5W-30/10W-30, Motul | 4L | 1,200 | Buy good oil, don’t cheap out. |
+| Gear Oil | 75W-90 | 2.5L | 600 | For manual gearbox. |
+| Coolant | Long-life, pre-mix | 4L | 400 | Don’t mix brands. |
+| Brake Fluid | DOT 4 | 1L | 250 | High temp for safety. |
+| Power Steering Fluid | ATF/OEM | 1L | 300 | Check manual for type. |
 
-## Sealants & Adhesives
+## 🧼 Cleaning & Detailing
+| Item | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Throttle Body Cleaner | Spray | 250 | For intake cleaning. |
+| Carb Cleaner | Spray | 200 | General degreasing. |
+| MAF/MAP Cleaner | Sensor-safe | 400 | Don’t use carb cleaner on sensors! |
+| Brake Cleaner | Fast-evap | 200 | For rotors, calipers. |
+| Engine Degreaser | Heavy duty | 300 | For engine bay. |
+| Car Shampoo | pH balanced | 250 | For regular washes. |
+| Clay Bar Kit | With lube | 700 | For paint prep. |
+| Polish Compound | Medium cut | 400 | For paint correction. |
+| Wax/Sealant | Synthetic | 600 | For paint protection. |
+| Interior Cleaner | Dashboard safe | 250 | For plastics. |
+| Glass Cleaner | Streak-free | 150 | For windows. |
 
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| RTV Sealant | High-Temp Silicone | ₹150 - ₹300 | For sealing flanges |
-| Thread Locker | Medium Strength | ₹100 - ₹250 | Prevent bolt loosening |
-| Anti-Seize Grease | Copper-Based | ₹150 - ₹300 | Prevent seizing |
-| Copper Grease | Brake Contact | ₹100 - ₹200 | Brake pad backing |
-| Fabric Glue | Interior Safe | ₹150 - ₹300 | Interior repairs |
+## 🏗️ Bodywork & Paint
+| Item | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Body Filler | 2-part | 400 | For dents. |
+| Sandpaper | 80–2000 grit | 300 | Get a variety pack. |
+| Primer | Automotive | 400 | For paint prep. |
+| Paint | Color matched | 1,000 | For touch-ups. |
+| Clear Coat | 2K | 800 | For gloss. |
+| Masking Tape | Automotive | 150 | For clean lines. |
 
-## Detailing Products
+## 🧲 Fasteners & Hardware
+| Item | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Hose Clamps | Stainless | 300 | For all hoses. |
+| Zip Ties | Heavy duty | 150 | Never enough! |
+| Oil Drain Washer | Copper | 80 | Replace every oil change. |
+| Vacuum Hoses | Silicone | 400 | For boost/vacuum lines. |
+| Heat Shrink Tubes | Assorted | 200 | For wiring. |
 
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Car Shampoo | pH Balanced | ₹200 - ₹400 | Exterior washing |
-| Clay Bar Kit | With Lubricant | ₹500 - ₹1,000 | Remove contaminants |
-| Polish Compound | Medium Cut | ₹300 - ₹600 | Paint correction |
-| Wax/Sealant | Synthetic | ₹400 - ₹800 | Paint protection |
-| Interior Cleaner | Dashboard Safe | ₹200 - ₹400 | Dashboard & trims |
-| Glass Cleaner | Streak-Free | ₹100 - ₹200 | Windows |
+## 🧪 Sealants & Adhesives
+| Item | Spec | Price | My Notes |
+|------|------|-------|----------|
+| RTV Sealant | High-temp | 200 | For flanges, oil pan. |
+| Thread Locker | Medium | 150 | For bolts. |
+| Anti-Seize Grease | Copper | 200 | For exhaust bolts. |
+| Copper Grease | Brake | 150 | For pad backs. |
+| Fabric Glue | Interior | 200 | For roof liner, seats. |
 
-## Body Work Materials
+## 🏠 Interior Materials
+| Item | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Foam Padding | Seat repair | 300 | For saggy seats. |
+| Roof Liner Fabric | Headliner | 400 | For roof. |
+| Adhesive | 3M | 200 | For trim. |
+| Trim Clips | Plastic | 150 | For panels. |
 
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Body Filler | 2-Part Putty | ₹300 - ₹600 | Dent repair |
-| Sandpaper | Assorted Grits (80-2000) | ₹200 - ₹500 | Surface preparation |
-| Primer | Automotive | 500ml | ₹250 - ₹500 | Base layer |
-| Automotive Paint | Color Matched | 500ml | ₹800 - ₹1,500 | Base color |
-| Clear Coat | 2K | 500ml | ₹600 - ₹1,200 | Gloss protection |
-| Masking Tape | Automotive Grade | Roll | ₹100 - ₹200 | Clean paint lines |
+## 🔥 Heat Management
+| Item | Spec | Price | My Notes |
+|------|------|-------|----------|
+| Heat Wrap | Exhaust | 1,000 | For turbo piping. |
+| Heat Shield | Aluminum | 400 | For engine bay. |
 
-## Fasteners & Hardware
+---
 
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Hose Clamps | Stainless Steel | Set of 10 | ₹200 - ₹400 | Secure connections |
-| Zip Ties | Heavy Duty | Pack of 100 | ₹100 - ₹200 | Cable management |
-| Oil Drain Washer | Copper | Pack of 5 | ₹50 - ₹100 | Replace to avoid leaks |
-| Vacuum Hoses | Silicone | 5m | ₹300 - ₹600 | Replace cracked ones |
-| Heat Shrink Tubes | Assorted Sizes | Pack | ₹150 - ₹300 | Wiring protection |
+## 📝 Ongoing Notes
+- I’ll add new consumables as I use them.
+- If something is a waste, I’ll log it here.
+- If I find a better/cheaper brand, I’ll note it.
+- If I run out mid-job, I’ll complain here!
 
-## Wheel & Brake Maintenance
-
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Wheel Cleaner | pH Neutral | 500ml | ₹150 - ₹300 | Alloy wheel cleaning |
-| Alloy Wheel Paint | Custom Color | 400ml | ₹400 - ₹800 | Wheel refurbishment |
-| Steel Braided Brake Lines | Complete Kit | Set | ₹2,000 - ₹4,000 | Better pedal feel |
-| High Performance Brake Fluid | DOT 4/5.1 | 500ml | ₹200 - ₹400 | Heat resistant |
-
-## Interior Materials
-
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Foam Padding | Seat Repair | Sheet | ₹200 - ₹400 | Seat cushion repair |
-| Roof Liner Fabric | Headliner Material | Meter | ₹300 - ₹600 | Replace sagging liner |
-| Adhesive | 3M Automotive | 50ml | ₹150 - ₹300 | Strong bonding |
-| Trim Pieces | Plastic Clips | Pack of 50 | ₹100 - ₹200 | Replace faded parts |
-
-## Heat Management
-
-| Item | Specification | Estimated Price (INR) | Notes |
-|------|---------------|----------------------|-------|
-| Heat Wrap | Exhaust/Turbo | 2" x 50ft | ₹800 - ₹1,500 | Heat management |
-| Heat Shield | Aluminum | Sheet | ₹300 - ₹600 | Protect components |
-
-## Notes
-- Prices are estimates and may vary based on brand and location
-- Always check product specifications for automotive use
-- Some consumables may have expiration dates - check before use
-- Consider buying in bulk for better value on frequently used items
-- Store consumables in cool, dry place away from direct sunlight
+**If you’re using this, add your own notes as you go!**
