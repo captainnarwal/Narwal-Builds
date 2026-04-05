@@ -1,122 +1,101 @@
+# Maintenance Video Script
 
-# 🎬 PHASE 1 — TURBO BUILD VIDEO SCRIPT
+## Intro Hook
 
----
+**Visual:**
+- Dirty engine bay
+- Old oil draining
 
-## 🎥 INTRO (HOOK)
+**Dialogue:**
+"Before I even think about adding turbo to this 2.0L 4G94 engine, I need to make sure it's 100% healthy. Today, we're doing a complete baseline maintenance on my Mitsubishi Cedia Sports."
 
-📷 Shot:
+## Section 1: Why This Matters
 
-- Turbo parts laid out
-- Engine bay
+**Dialogue:**
+"Most people skip this step and jump straight into performance mods. That's how engines blow up. Maintenance is the foundation of any proper build."
 
-🎤 Dialogue:
-"This is where things get serious. Today, I’m turning my Mitsubishi Cedia into a turbocharged build."
+## Section 2: Initial Inspection
 
----
+**Visual:**
+- Engine bay walkaround
+- Underbody clips
 
-## 🎥 SECTION 1 — WHY TURBO?
+**Dialogue:**
+"I'm checking for leaks, worn hoses, and overall engine condition before touching anything."
 
-🎤 Dialogue:
-"The stock engine is good, but we want more power. The goal is a reliable low boost turbo setup."
+## Section 3: Fluid Drain
 
----
+**Visual:**
+- Oil draining (close-up)
+- Coolant draining
 
-## 🎥 SECTION 2 — FOUNDATION FIRST
+**Dialogue:**
+"This oil has been in the engine way too long. Fresh oil alone can completely change how the engine feels."
 
-🎤 Dialogue:
-"Before adding boost, I upgraded the spark plugs and clutch to handle the extra power."
+## Section 4: Filters & Spark Plugs
 
----
+**Visual:**
+- Dirty vs new filter
+- Spark plug comparison
 
-## 🎥 SECTION 3 — TURBO INSTALL
+**Dialogue:**
+"Spark plugs tell you everything about your engine health. These are worn out, so replacing them is a must."
 
-📷 Shots:
+## Section 5: Cleaning
 
-- Manifold install
-- Turbo mounting
+**Visual:**
+- Throttle body cleaning (satisfying shots)
 
-🎤 Dialogue:
-"This turbo is the heart of the build. Everything depends on how well this is installed."
+**Dialogue:**
+"Carbon buildup restricts airflow. Cleaning this improves throttle response instantly."
 
----
+## Section 6: Refilling Fluids
 
-## 🎥 SECTION 4 — OIL LINES (IMPORTANT)
+**Visual:**
+- Pouring oil (cinematic)
+- Coolant filling
 
-🎤 Dialogue:
-"Without proper oil flow, the turbo will fail instantly. This step is critical."
+**Dialogue:**
+"Fresh fluids = smoother engine, better cooling, and longer life."
 
----
+## Section 7: Brakes & Safety
 
-## 🎥 SECTION 5 — INTERCOOLER SETUP
+**Dialogue:**
+"Power is useless if you can't stop. That's why I'm flushing the brake fluid as well."
 
-📷 Shots:
+## Section 8: Clutch Discussion
 
-- Front mount intercooler
-- Piping install
+**Dialogue:**
+"My mechanic suggested replacing the full clutch kit. And honestly, it makes sense because doing it later means opening everything again."
 
-🎤 Dialogue:
-"This helps keep intake temperatures low, which means more power and safety."
+## Section 9: First Start
 
----
-
-## 🎥 SECTION 6 — EXHAUST FABRICATION
-
-🎤 Dialogue:
-"This is a custom downpipe — one of the most satisfying parts of the build."
-
----
-
-## 🎥 SECTION 7 — FUEL & ECU
-
-🎤 Dialogue:
-"More air means we need more fuel. That’s why I upgraded the fuel system and added ECU control."
-
----
-
-## 🎥 SECTION 8 — FIRST START (HYPE MOMENT)
-
-📷 Shots:
-
+**Visual:**
 - Key turn
 - Engine start
 
-🎤 Dialogue:
-"This is the moment… let’s see if everything works."
+**Dialogue:**
+"This is the moment of truth."
 
----
+(Add suspense)
 
-## 🎥 SECTION 9 — PROBLEM CHECK
+## Section 10: Test Drive
 
-🎤 Dialogue:
-"I’m checking for leaks, noises, and making sure everything is running safely."
-
----
-
-## 🎥 SECTION 10 — TEST DRIVE
-
-📷 Shots:
-
+**Visual:**
 - Driving clips
-- Turbo spool sound
+- Gear shifts
 
-🎤 Dialogue:
-"It’s running on low boost right now, but the difference is already huge."
+**Dialogue:**
+"The engine feels smoother, more responsive, and ready for the next stage."
 
----
+## Outro
 
-## 🎥 OUTRO
+**Dialogue:**
+"This is just the beginning. Next step — we start building power."
 
-🎤 Dialogue:
-"This is just Phase 1. Next, we focus on handling and braking to control this power."
+## Content Tips
 
----
-
-## 🎯 CONTENT STRATEGY
-
-- Capture turbo spool sound 🔥
-- Show struggles (real build feel)
-- Add cinematic shots of piping and welds
-- Use suspense during first start
-
----
+- Use BEFORE vs AFTER shots
+- Add satisfying cleaning clips
+- Show real problems (don't hide issues)
+- Keep it raw and authentic

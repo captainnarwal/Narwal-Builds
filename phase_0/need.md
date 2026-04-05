@@ -1,20 +1,16 @@
 
-# 🧰 PHASE 0 — PLANNING REQUIREMENTS (PROJECT SETUP)
+# Phase 0: Planning Requirements
 
----
-
-## 🧠 PROJECT DEFINITION
+## Project Definition
 
 | Item       | Details                                        |
 | ---------- | ---------------------------------------------- |
 | Build Goal | Turbocharged street build (reliable low boost) |
-| Engine     | 4G94 (stock internals)                         |
+| Engine     | 4G94 2.0L (stock internals)                   |
 | Target Use | Daily + performance                            |
 | Power Goal | ~160–200 HP (safe range)                      |
 
----
-
-## 📋 BUILD SECTIONS
+## Build Sections
 
 | Section     | Scope                 |
 | ----------- | --------------------- |
@@ -23,9 +19,7 @@
 | Control     | Suspension + brakes   |
 | Aesthetics  | Exterior + interior   |
 
----
-
-## 💰 BUDGET PLANNING
+## Budget Planning
 
 | Section           | Estimated Range (INR) |
 | ----------------- | --------------------- |
@@ -34,9 +28,7 @@
 | Handling & Brakes | ₹30K – ₹80K        |
 | Aesthetics        | ₹20K – ₹100K       |
 
----
-
-## 🛒 SOURCING STRATEGY
+## Sourcing Strategy
 
 | Category    | Options                           |
 | ----------- | --------------------------------- |
@@ -45,9 +37,7 @@
 | Suspension  | Branded / Budget                  |
 | Body Parts  | Local fabrication / aftermarket   |
 
----
-
-## 🧰 PLANNING TOOLS
+## Planning Tools
 
 | Tool                  | Purpose              |
 | --------------------- | -------------------- |
@@ -56,9 +46,7 @@
 | Notes App             | Quick planning       |
 | Pinterest / Instagram | Design inspiration   |
 
----
-
-## 📦 PART TRACKING SYSTEM
+## Part Tracking System
 
 | Item                       | Track |
 | -------------------------- | ----- |
@@ -67,9 +55,7 @@
 | Source                     | ✔    |
 | Status (Ordered/Installed) | ✔    |
 
----
-
-## 🧠 DECISION PARAMETERS
+## Decision Parameters
 
 | Factor        | Consideration             |
 | ------------- | ------------------------- |
@@ -78,9 +64,7 @@
 | Compatibility | Avoid duplicate purchases |
 | Upgrade Path  | Future-proof decisions    |
 
----
-
-## 📅 TIMELINE PLANNING
+## Timeline Planning
 
 | Phase       | Duration   |
 | ----------- | ---------- |

@@ -1,116 +1,78 @@
+# Complete Maintenance Requirements
 
-# 🧰 PHASE 1 — TURBO BUILD REQUIREMENTS (MITSUBISHI CEDIA 4G94)
+## Fluids
 
----
+| Item                 | Specification                              | Quantity      | Notes                                     |
+| -------------------- | ------------------------------------------ | ------------- | ----------------------------------------- |
+| Engine Oil           | 5W-30 / 10W-30 (Fully Synthetic preferred) | 4 Litres      | Choose good brand (Shell / Motul / Mobil) |
+| Gear Oil             | 75W-90                                     | 2–2.5 Litres | For manual transmission                   |
+| Coolant              | Pre-mix or concentrate                     | 3–4 Litres   | Use long-life coolant                     |
+| Brake Fluid          | DOT 3 / DOT 4                              | 500ml–1L     | DOT 4 recommended                         |
+| Power Steering Fluid | ATF or OEM spec                            | 1 Litre       | Check compatibility                       |
 
-## 🌀 TURBO SYSTEM (CORE COMPONENTS)
+## Service Parts
 
-| Part                                 | Notes                            |
-| ------------------------------------ | -------------------------------- |
-| Turbocharger (T25 / T28 recommended) | Small turbo for low boost setup  |
-| Turbo Manifold                       | Custom fabricated or aftermarket |
-| External Wastegate                   | 38mm / 40mm                      |
-| Blow-Off Valve (BOV)                 | Prevents compressor surge        |
-| Boost Controller (Manual/Electronic) | Control boost pressure           |
+| Part                      | Quantity | Notes                          |
+| ------------------------- | -------- | ------------------------------ |
+| Oil Filter                | 1        | Always replace with oil change |
+| Air Filter                | 1        | Stock or performance           |
+| Fuel Filter               | 1        | Important for turbo prep       |
+| Spark Plugs               | 4        | NGK recommended                |
+| Ignition Coils (optional) | 4        | Only if weak/misfire           |
 
----
+## Clutch System
 
-## 🌬️ AIR SYSTEM (INTERCOOLER SETUP)
+| Part                   | Notes                      |
+| ---------------------- | -------------------------- |
+| Clutch Disc            | Replace if worn            |
+| Pressure Plate         | Replace with disc          |
+| Release Bearing        | Always replace             |
+| Clutch Master Cylinder | Optional but smart upgrade |
 
-| Part                           | Notes                       |
-| ------------------------------ | --------------------------- |
-| Front Mount Intercooler (FMIC) | Universal kit               |
-| Intercooler Piping Kit         | Aluminum pipes              |
-| Silicone Couplers              | Various sizes               |
-| T-Bolt Clamps                  | Stronger than normal clamps |
+## Cleaning Consumables
 
----
+| Item                   | Use                     |
+| ---------------------- | ----------------------- |
+| Throttle Body Cleaner  | Clean throttle body     |
+| Carb Cleaner           | General cleaning        |
+| MAF/MAP Sensor Cleaner | Sensor-safe cleaning    |
+| Brake Cleaner Spray    | Brake + grease cleaning |
+| Engine Degreaser       | Engine bay cleaning     |
 
-## 🔥 EXHAUST SYSTEM
+## Small Parts & Extras
 
-| Part           | Notes                       |
-| -------------- | --------------------------- |
-| Turbo Downpipe | Custom fabrication required |
-| Exhaust Piping | 2.25"–2.5" recommended     |
-| Gaskets        | Heat resistant              |
-| O2 Sensor Bung | Required for sensor         |
+| Item             | Notes                   |
+| ---------------- | ----------------------- |
+| Oil Drain Washer | Replace to avoid leaks  |
+| Hose Clamps      | Backup for old pipes    |
+| Vacuum Hoses     | Replace cracked ones    |
+| RTV Sealant      | For sealing (important) |
+| Zip Ties         | Cable management        |
 
----
+## Tools
 
-## ⛽ FUEL SYSTEM
+### Lifting Equipment
+- Hydraulic Jack
+- Jack Stands (2 or 4)
 
-| Part                                        | Notes             |
-| ------------------------------------------- | ----------------- |
-| High Flow Fuel Pump (Walbro 255 or similar) | Mandatory         |
-| Fuel Injectors (optional initially)         | Upgrade if needed |
-| Fuel Pressure Regulator (optional)          | Better control    |
-
----
-
-## 🧠 ENGINE MANAGEMENT
-
-| Part                                      | Notes               |
-| ----------------------------------------- | ------------------- |
-| Piggyback ECU (Greddy E-Manage / similar) | Budget option       |
-| Standalone ECU (optional)                 | Best performance    |
-| MAP Sensor (if required)                  | For boost reading   |
-| Wideband O2 Sensor                        | CRITICAL for tuning |
-
----
-
-## 🛢️ OIL & BOOST SUPPORT
-
-| Part                   | Notes                  |
-| ---------------------- | ---------------------- |
-| Turbo Oil Feed Line    | From engine            |
-| Oil Return Line + Bung | Weld to oil pan        |
-| Vacuum Lines           | For boost control      |
-| T-Fittings             | For oil/vacuum routing |
-
----
-
-## 🔧 FOUNDATION PARTS
-
-| Part                                    | Notes               |
-| --------------------------------------- | ------------------- |
-| Performance Spark Plugs (1 step colder) | Important for turbo |
-| Upgraded Clutch Kit                     | Handle extra power  |
-| High Flow Air Filter                    | Better airflow      |
-
----
-
-## 🧽 CONSUMABLES
-
-| Item          | Use                           |
-| ------------- | ----------------------------- |
-| Heat Wrap     | Exhaust/turbo heat management |
-| Hose Clamps   | Secure connections            |
-| Zip Ties      | Cable management              |
-| Thread Locker | Prevent loosening             |
-| RTV Sealant   | Sealing flanges               |
-| Engine Oil    | Fresh oil after turbo install |
-| Coolant       | Refill after install          |
-
----
-
-## 🧰 TOOLS (ADDITIONAL FOR TURBO BUILD)
-
-### Fabrication Tools
-
-- Angle Grinder
-- Welding Machine (or local fabricator)
-
-### Installation Tools
-
-- Drill Machine
-- Metal Drill Bits
-- Torque Wrench
-- Socket Set
-- Spanners
+### Hand Tools
+- Socket Set (8mm–19mm)
+- Ratchet + Extensions
+- Spanner Set
+- Screwdrivers (Flat + Phillips)
+- Pliers
 
 ### Special Tools
+- Torque Wrench (VERY IMPORTANT)
+- Spark Plug Socket
+- Oil Filter Wrench
+- Funnel
+- Oil Drain Pan
 
-- Boost Leak Tester (DIY possible)
-- Vacuum Pump (optional)
+### Brake Work
+- Brake Bleeding Kit / Tube + Bottle
 
----
+### Optional Tools
+- Work Light
+- Gloves
+- Magnetic tray for bolts

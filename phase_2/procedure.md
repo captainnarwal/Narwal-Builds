@@ -1,137 +1,123 @@
 
-# 🔧 PHASE 2 — EXECUTION PLAN (HANDLING & BRAKING)
+# Turbo Build Execution
 
----
+## Important Rules
 
-## ⚠️ BEFORE START
+- Do NOT rush
+- Double-check all connections
+- Low boost setup initially (6–8 PSI)
 
-- Work on level surface
-- Use jack stands
-- Loosen wheel nuts before lifting
+## Step 1: Final Engine Health Check
 
----
+- Compression test again
+- Check spark plugs condition
+- Ensure NO leaks
 
-## STEP 1 — REMOVE WHEELS
+If engine unhealthy → STOP
 
-- Lift car
-- Remove all wheels
-- Inspect brakes & suspension
+## Step 2: Install Foundation Parts
 
----
+### Spark Plugs
+- Install colder plugs
 
-## STEP 2 — SUSPENSION UPGRADE
+### Clutch
+- Install upgraded clutch kit
 
-### Option A: Lowering Springs
+### Intake
+- Install high-flow air filter
 
-- Remove struts
-- Compress springs
-- Replace springs
+## Step 3: Turbo Manifold Install
 
-### Option B: Coilovers
+- Remove stock exhaust manifold
+- Install turbo manifold
+- Use new gasket + torque properly
 
-- Remove full strut assembly
-- Install coilovers
-- Set initial ride height
+## Step 4: Turbo Installation
 
----
+- Mount turbo to manifold
+- Ensure oil inlet facing correct direction
+- Drain facing downward
 
-## STEP 3 — SHOCK & BUSHING CHECK
+## Step 5: Wastegate Install
 
-- Inspect:
-  - Bushings
-  - Ball joints
-  - Tie rods
+- Mount external wastegate
+- Connect vacuum line
 
-👉 Replace worn parts immediately
+## Step 6: Oil Lines Setup
 
----
+### Oil Feed:
+- Tap from engine oil source
 
-## STEP 4 — STRUT BAR INSTALL
+### Oil Return:
+- Remove oil pan
+- Weld return bung
+- Connect return line
 
-- Bolt onto strut towers
-- Torque properly
+## Step 7: Intercooler Install
 
----
+- Mount front intercooler
+- Secure properly
 
-## STEP 5 — BRAKE ROTOR UPGRADE
+## Step 8: Intercooler Piping
 
-- Remove caliper
-- Remove old rotor
-- Install new larger rotor
+- Route piping from turbo → intercooler → throttle body
+- Secure with T-bolt clamps
 
----
+## Step 9: BOV Installation
 
-## STEP 6 — BRAKE PAD INSTALL
+- Install on charge pipe
+- Connect vacuum line
 
-- Install performance pads
-- Apply copper grease on backing
+## Step 10: Downpipe Fabrication
 
----
+- Fabricate downpipe from turbo
+- Connect to exhaust
 
-## STEP 7 — CALIPER UPGRADE (IF DOING)
+## Step 11: Fuel System Upgrade
 
-- Install upgraded caliper
-- Use correct brackets
+- Install high-flow fuel pump
+- Check fuel pressure
 
----
+## Step 12: ECU Installation
 
-## STEP 8 — BRAKE LINE UPGRADE
+- Install piggyback ECU
+- Connect sensors
+- Install wideband O2
 
-- Remove rubber lines
-- Install steel braided lines
-- Ensure tight fittings
+## Step 13: Vacuum & Boost Lines
 
----
+- Connect all vacuum lines
+- Route boost controller
 
-## STEP 9 — BRAKE FLUID FLUSH
+## Step 14: Final Check Before Start
 
-- Fill with high-performance fluid
-- Bleed system fully
+Check:
+- Oil lines tight
+- Coolant lines secure
+- Intercooler piping tight
+- No loose bolts
 
-Order:
+## Step 15: First Start
 
-1. Rear right
-2. Rear left
-3. Front right
-4. Front left
+- Start engine
+- Let idle
 
----
+Check:
+- Oil leaks
+- Smoke
+- Strange noises
 
-## STEP 10 — WHEEL INSTALLATION
+## Step 16: Boost Leak Test
 
-- Install new wheels
-- Torque lug nuts properly
+- Pressurize system
+- Fix leaks
 
----
+## Step 17: Base Tuning
 
-## STEP 11 — ALIGNMENT & BALANCING
+- Set low boost
+- Adjust fuel maps (basic)
 
-- Wheel alignment (mandatory)
-- Wheel balancing
+## Step 18: Test Drive (Low Boost)
 
----
-
-## STEP 12 — INITIAL TEST
-
-- Check:
-  - Suspension noise
-  - Brake feel
-  - Steering response
-
----
-
-## STEP 13 — ROAD TEST
-
-- Gradual speed increase
-- Test braking at different speeds
-- Check stability in turns
-
----
-
-## STEP 14 — POST TEST CHECK
-
-- Re-torque lug nuts
-- Check for leaks
-- Inspect brake lines
-
----
+- Light throttle only
+- Monitor AFR (very important)

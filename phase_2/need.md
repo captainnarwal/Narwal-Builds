@@ -1,93 +1,93 @@
 
-# 🧰 PHASE 2 — HANDLING & BRAKING REQUIREMENTS (MITSUBISHI CEDIA)
+# Turbo Build Requirements
 
----
+## Turbo System
 
-## 🛞 WHEELS & TYRES
+| Part                                 | Notes                            |
+| ------------------------------------ | -------------------------------- |
+| Turbocharger (T25 / T28 recommended) | Small turbo for low boost setup  |
+| Turbo Manifold                       | Custom fabricated or aftermarket |
+| External Wastegate                   | 38mm / 40mm                      |
+| Blow-Off Valve (BOV)                 | Prevents compressor surge        |
+| Boost Controller (Manual/Electronic) | Control boost pressure           |
 
-| Part              | Specification            | Notes                            |
-| ----------------- | ------------------------ | -------------------------------- |
-| Alloy Wheels      | 15” / 16”              | 16” preferred for bigger brakes |
-| Tyres             | 195/55 R15 or 205/50 R16 | Wider = better grip              |
-| Wheel Nuts        | Compatible set           | Required for aftermarket wheels  |
-| Hub Centric Rings | If needed                | Prevent vibration                |
+## Air System
 
----
+| Part                           | Notes                       |
+| ------------------------------ | --------------------------- |
+| Front Mount Intercooler (FMIC) | Universal kit               |
+| Intercooler Piping Kit         | Aluminum pipes              |
+| Silicone Couplers              | Various sizes               |
+| T-Bolt Clamps                  | Stronger than normal clamps |
 
-## 🛠️ SUSPENSION
+## Exhaust System
 
-| Part                | Notes                            |
-| ------------------- | -------------------------------- |
-| Lowering Springs    | Budget option                    |
-| Coilovers           | Best performance + adjustability |
-| Shock Absorbers     | Upgrade if worn                  |
-| Suspension Bushings | Replace worn ones                |
+| Part           | Notes                       |
+| -------------- | --------------------------- |
+| Turbo Downpipe | Custom fabrication required |
+| Exhaust Piping | 2.25"–2.5" recommended     |
+| Gaskets        | Heat resistant              |
+| O2 Sensor Bung | Required for sensor         |
 
----
+## Fuel System
 
-## 🧱 STABILITY UPGRADES
+| Part                                        | Notes             |
+| ------------------------------------------- | ----------------- |
+| High Flow Fuel Pump (Walbro 255 or similar) | Mandatory         |
+| Fuel Injectors (optional initially)         | Upgrade if needed |
+| Fuel Pressure Regulator (optional)          | Better control    |
 
-| Part                      | Notes                      |
-| ------------------------- | -------------------------- |
-| Front Strut Bar           | Improves chassis stiffness |
-| Rear Strut Bar (optional) | Extra stability            |
+## Engine Management
 
----
+| Part                                      | Notes               |
+| ----------------------------------------- | ------------------- |
+| Piggyback ECU (Greddy E-Manage / similar) | Budget option       |
+| Standalone ECU (optional)                 | Best performance    |
+| MAP Sensor (if required)                  | For boost reading   |
+| Wideband O2 Sensor                        | CRITICAL for tuning |
 
-## 🛑 BRAKING SYSTEM (CORE)
+## Oil & Boost Support
 
-| Part                   | Notes                                |
-| ---------------------- | ------------------------------------ |
-| Larger Brake Rotors    | Upgrade size (depends on wheel size) |
-| Performance Brake Pads | Better stopping power                |
-| Brake Calipers         | Upgrade/swap (if needed)             |
-| Caliper Brackets       | Required for big brake setup         |
+| Part                   | Notes                  |
+| ---------------------- | ---------------------- |
+| Turbo Oil Feed Line    | From engine            |
+| Oil Return Line + Bung | Weld to oil pan        |
+| Vacuum Lines           | For boost control      |
+| T-Fittings             | For oil/vacuum routing |
 
----
+## Foundation Parts
 
-## 🔧 BRAKING SYSTEM (SUPPORTING)
+| Part                                    | Notes               |
+| --------------------------------------- | ------------------- |
+| Performance Spark Plugs (1 step colder) | Important for turbo |
+| Upgraded Clutch Kit                     | Handle extra power  |
+| High Flow Air Filter                    | Better airflow      |
 
-| Part                                     | Notes             |
-| ---------------------------------------- | ----------------- |
-| Steel Braided Brake Lines                | Better pedal feel |
-| High Performance Brake Fluid (DOT 4/5.1) | Heat resistant    |
+## Consumables
 
----
+| Item          | Use                           |
+| ------------- | ----------------------------- |
+| Heat Wrap     | Exhaust/turbo heat management |
+| Hose Clamps   | Secure connections            |
+| Zip Ties      | Cable management              |
+| Thread Locker | Prevent loosening             |
+| RTV Sealant   | Sealing flanges               |
+| Engine Oil    | Fresh oil after turbo install |
+| Coolant       | Refill after install          |
 
-## 🧽 CONSUMABLES
+## Tools
 
-| Item                | Use                   |
-| ------------------- | --------------------- |
-| Brake Cleaner Spray | Clean rotors/calipers |
-| Anti-Seize Grease   | Prevent bolt seizing  |
-| Thread Locker       | Secure critical bolts |
-| Copper Grease       | Brake pad backing     |
-| Zip Ties            | Cable management      |
+### Fabrication Tools
+- Angle Grinder
+- Welding Machine (or local fabricator)
 
----
-
-## 🧰 TOOLS REQUIRED
-
-### General
-
-- Jack + Jack Stands
-- Socket Set
-- Spanner Set
+### Installation Tools
+- Drill Machine
+- Metal Drill Bits
 - Torque Wrench
+- Socket Set
+- Spanners
 
-### Wheels
-
-- Lug Wrench / Impact Wrench
-
-### Brakes
-
-- Brake Bleeding Kit
-- C-Clamp / Caliper Tool
-- Wire Brush
-
-### Suspension
-
-- Spring Compressor (if using springs)
-- Breaker Bar (for tight bolts)
-
----
+### Special Tools
+- Boost Leak Tester (DIY possible)
+- Vacuum Pump (optional)

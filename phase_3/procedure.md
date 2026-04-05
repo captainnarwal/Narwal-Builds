@@ -1,124 +1,95 @@
 
-# 🔧 PHASE 3 — EXECUTION PLAN (AESTHETICS & RESTORATION)
+# Handling & Braking Execution Plan
 
----
+## Before Start
 
-## ⚠️ BEFORE START
+- Work on level surface
+- Use jack stands
+- Loosen wheel nuts before lifting
 
-- Clean the car completely
-- Plan paint areas
-- Work in dust-free environment
+## Step 1: Remove Wheels
 
----
+- Lift car
+- Remove all wheels
+- Inspect brakes & suspension
 
-## STEP 1 — EXTERIOR INSPECTION
+## Step 2: Suspension Upgrade
 
-- Identify dents
-- Check panel gaps
-- Inspect paint damage
+### Option A: Lowering Springs
+- Remove struts
+- Compress springs
+- Replace springs
 
----
+### Option B: Coilovers
+- Remove full strut assembly
+- Install coilovers
+- Set initial ride height
 
-## STEP 2 — DENT REPAIR
+## Step 3: Shock & Bushing Check
 
-- Sand damaged area
-- Apply body filler
-- Sand smooth
+- Inspect bushings, ball joints, tie rods
 
----
+Replace worn parts immediately
 
-## STEP 3 — PANEL ALIGNMENT
+## Step 4: Strut Bar Install
 
-- Adjust:
-  - Doors
-  - Hood
-  - Bumpers
+- Bolt onto strut towers
+- Torque properly
 
----
+## Step 5: Brake Rotor Replacement
 
-## STEP 4 — PAINT PREPARATION
+- Remove caliper
+- Remove old rotor
+- Install Brembo rotors
+- Reinstall caliper
 
-- Sand entire panel
-- Apply primer
-- Let dry
+## Step 6: Brake Pad Replacement
 
----
+- Install EBC performance pads
+- Apply copper grease on backing
+- Reassemble caliper
 
-## STEP 5 — PAINT APPLICATION
+## Step 7: Brake Line Upgrade
 
-- Apply base coat (multiple layers)
-- Let dry between coats
-- Apply clear coat
+- Remove rubber lines
+- Install steel braided lines
+- Ensure tight fittings
 
----
+## Step 8: Brake Fluid Flush
 
-## STEP 6 — BODY KIT INSTALL
+- Fill with high-performance fluid
+- Bleed system fully
 
-- Test fit first
-- Drill if required
-- Secure using clips/adhesive
+Order:
+1. Rear right
+2. Rear left
+3. Front right
+4. Front left
 
----
+## Step 9: Wheel Reconditioning
 
-## STEP 7 — LIGHTING UPGRADE
+- Remove wheels from car
+- Send for painting (white)
+- Balance wheels professionally
+- Reinstall on car
 
-### Headlights:
+## Step 10: Alignment & Balancing
 
-- Install LEDs or projectors
+- Wheel alignment (mandatory)
+- Final wheel balancing check
 
-### DRLs:
+## Step 11: Initial Test
 
-- Mount securely
-- Connect via relay
+- Check suspension noise, brake feel, steering response
 
----
+## Step 12: Road Test
 
-## STEP 8 — WHEEL RESTORATION
+- Gradual speed increase
+- Test braking at different speeds
+- Check stability in turns
 
-- Remove wheels
-- Sand surface
-- Paint + clear coat
+## Step 13: Post Test Check
 
----
-
-## STEP 9 — INTERIOR RESTORATION
-
-### Seats:
-
-- Clean or replace covers
-
-### Roof Liner:
-
-- Remove old fabric
-- Apply new fabric
-
-### Dashboard:
-
-- Deep clean
-
----
-
-## STEP 10 — FINAL DETAILING
-
-### Exterior:
-
-- Wash
-- Clay bar
-- Polish
-- Wax
-
-### Interior:
-
-- Vacuum
-- Clean surfaces
-
----
-
-## STEP 11 — FINAL CHECK
-
-- Inspect:
-  - Paint finish
-  - Panel gaps
-  - Lights working
-
----
+- Re-torque lug nuts
+- Check for leaks
+- Inspect brake lines

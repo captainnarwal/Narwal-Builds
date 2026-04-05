@@ -1,172 +1,131 @@
+# Full Maintenance Execution Plan
 
-# 🔧 PHASE 1 — TURBO BUILD EXECUTION (STEP-BY-STEP)
+## Safety Rules Before Starting
 
----
+- Work on a cool engine
+- Park on level surface
+- Use jack stands (never rely on jack alone)
+- Keep all tools ready
 
-## ⚠️ IMPORTANT RULES
+## Step 1: Initial Inspection
 
-- Do NOT rush
-- Double-check all connections
-- Low boost setup initially (6–8 PSI)
+### What to do:
+- Open hood
+- Check for oil leaks, coolant leaks, cracked hoses, loose wiring
 
----
+### Compression Test:
+- Remove spark plugs
+- Test each cylinder
 
-## STEP 1 — FINAL ENGINE HEALTH CHECK
+### Goal:
+- Confirm engine is healthy before investing further
 
-- Compression test again
-- Check spark plugs condition
-- Ensure NO leaks
+## Step 2: Lift Car Safely
 
-👉 If engine unhealthy → STOP
+- Jack front of car
+- Place on jack stands
+- Ensure stability
 
----
+## Step 3: Drain Engine Oil
 
-## STEP 2 — INSTALL FOUNDATION PARTS
+### Process:
+- Place drain pan
+- Open drain bolt
+- Let oil fully drain (10–15 min)
 
-### Spark Plugs
+### Then:
+- Remove oil filter
+- Clean mounting area
 
-- Install colder plugs
+## Step 4: Drain Coolant
 
-### Clutch
+- Open radiator drain plug
+- Remove radiator cap
+- Drain completely
 
-- Install upgraded clutch kit
+## Step 5: Drain Gear Oil
 
-### Intake
+- Open drain bolt
+- Let fluid drain fully
 
-- Install high-flow air filter
+## Step 6: Replace Filters
 
----
+- Install new oil filter
+- Replace air filter
+- Replace fuel filter (careful with pressure)
 
-## STEP 3 — TURBO MANIFOLD INSTALL
+## Step 7: Spark Plug Replacement
 
-- Remove stock exhaust manifold
-- Install turbo manifold
-- Use new gasket + torque properly
+- Remove ignition coils
+- Remove old plugs
+- Install new plugs (torque correctly)
 
----
+## Step 8: Cleaning Phase
 
-## STEP 4 — TURBO INSTALLATION
+### Throttle Body:
+- Remove intake pipe
+- Spray cleaner
+- Wipe carbon deposits
 
-- Mount turbo to manifold
-- Ensure:
-  - Oil inlet facing correct direction
-  - Drain facing downward
+### Sensors:
+- Use ONLY sensor-safe cleaner
 
----
+## Step 9: Refill Fluids
 
-## STEP 5 — WASTEGATE INSTALL
+### Engine Oil:
+- Add fresh oil
+- Check dipstick level
 
-- Mount external wastegate
-- Connect vacuum line
+### Coolant:
+- Fill radiator
+- Bleed air (run engine with cap open)
 
----
+### Gear Oil:
+- Fill through fill bolt until level
 
-## STEP 6 — OIL LINES SETUP
+## Step 10: Brake Fluid Flush
 
-### Oil Feed:
+### Process:
+- Open each brake bleeder
+- Pump brake pedal
+- Replace old fluid
 
-- Tap from engine oil source
+Order:
+1. Rear right
+2. Rear left
+3. Front right
+4. Front left
 
-### Oil Return:
+## Step 11: Power Steering Fluid
 
-- Remove oil pan
-- Weld return bung
-- Connect return line
+- Remove old fluid (suction method)
+- Refill
+- Turn steering lock-to-lock
 
----
+## Step 12: Clutch Replacement
 
-## STEP 7 — INTERCOOLER INSTALL
+### Requires:
+- Gearbox removal
 
-- Mount front intercooler
-- Secure properly
+### Replace:
+- Disc
+- Pressure plate
+- Bearing
 
----
+## Step 13: Final Check
 
-## STEP 8 — INTERCOOLER PIPING
-
-- Route piping from:
-  - Turbo → Intercooler → Throttle body
-- Secure with T-bolt clamps
-
----
-
-## STEP 9 — BOV INSTALLATION
-
-- Install on charge pipe
-- Connect vacuum line
-
----
-
-## STEP 10 — DOWNPIPE FABRICATION
-
-- Fabricate downpipe from turbo
-- Connect to exhaust
-
----
-
-## STEP 11 — FUEL SYSTEM UPGRADE
-
-- Install high-flow fuel pump
-- Check fuel pressure
-
----
-
-## STEP 12 — ECU INSTALLATION
-
-- Install piggyback ECU
-- Connect sensors
-- Install wideband O2
-
----
-
-## STEP 13 — VACUUM & BOOST LINES
-
-- Connect all vacuum lines
-- Route boost controller
-
----
-
-## STEP 14 — FINAL CHECK BEFORE START
-
-Check:
-
-- Oil lines tight
-- Coolant lines secure
-- Intercooler piping tight
-- No loose bolts
-
----
-
-## STEP 15 — FIRST START
-
-- Start engine
-- Let idle
-
-Check:
-
+Start engine and check:
 - Oil leaks
-- Smoke
-- Strange noises
+- Coolant leaks
+- Idle smoothness
+- Warning lights
 
----
+## Step 14: Test Drive
 
-## STEP 16 — BOOST LEAK TEST
+- Drive slowly
+- Check gear shifts, brakes, engine response
 
-- Pressurize system
-- Fix leaks
+## Step 15: Post Drive Check
 
----
-
-## STEP 17 — BASE TUNING
-
-- Set low boost
-- Adjust fuel maps (basic)
-
----
-
-## STEP 18 — TEST DRIVE (LOW BOOST)
-
-- Light throttle only
-- Monitor AFR (very important)
-
----
+- Recheck fluid levels
+- Inspect for leaks again

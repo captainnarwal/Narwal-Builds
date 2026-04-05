@@ -1,108 +1,89 @@
 
-# 🎬 PHASE 2 — HANDLING & BRAKING VIDEO SCRIPT
+# Turbo Build Video Script
 
----
+## Intro Hook
 
-## 🎥 INTRO (HOOK)
+**Visual:**
+- Turbo parts laid out
+- Engine bay
 
-📷 Shot:
+**Dialogue:**
+"This is where things get serious. Today, I'm turning my Mitsubishi Cedia Sports Rally Edition into a turbocharged build."
 
-- Turbo car driving clip
-- Brake close-ups
+## Section 1: Why Turbo?
 
-🎤 Dialogue:
-"I’ve added power… but now I need to control it. Today, we’re upgrading handling and braking on my Mitsubishi Cedia."
+**Dialogue:**
+"The stock engine is good, but we want more power. The goal is a reliable low boost turbo setup."
 
----
+## Section 2: Foundation First
 
-## 🎥 SECTION 1 — WHY THIS IS IMPORTANT
+**Dialogue:**
+"Before adding boost, I upgraded the spark plugs and clutch to handle the extra power."
 
-🎤 Dialogue:
-"Power without control is dangerous. This phase is all about making the car safe and stable."
+## Section 3: Turbo Install
 
----
+**Visual:**
+- Manifold install
+- Turbo mounting
 
-## 🎥 SECTION 2 — WHEELS & TYRES
+**Dialogue:**
+"This turbo is the heart of the build. Everything depends on how well this is installed."
 
-📷 Shots:
+## Section 4: Oil Lines
 
-- Old vs new wheels
-- Tyre comparison
+**Dialogue:**
+"Without proper oil flow, the turbo will fail instantly. This step is critical."
 
-🎤 Dialogue:
-"Wider tyres mean more grip. This alone transforms how the car feels."
+## Section 5: Intercooler Setup
 
----
+**Visual:**
+- Front mount intercooler
+- Piping install
 
-## 🎥 SECTION 3 — SUSPENSION
+**Dialogue:**
+"This helps keep intake temperatures low, which means more power and safety."
 
-📷 Shots:
+## Section 6: Exhaust Fabrication
 
-- Coilover install
-- Height adjustment
+**Dialogue:**
+"This is a custom downpipe — one of the most satisfying parts of the build."
 
-🎤 Dialogue:
-"Lowering the car improves handling and reduces body roll."
+## Section 7: Fuel & ECU
 
----
+**Dialogue:**
+"More air means we need more fuel. That's why I upgraded the fuel system and added ECU control."
 
-## 🎥 SECTION 4 — STRUT BAR
+## Section 8: First Start
 
-🎤 Dialogue:
-"This small upgrade increases chassis stiffness and improves cornering."
+**Visual:**
+- Key turn
+- Engine start
 
----
+**Dialogue:**
+"This is the moment… let's see if everything works."
 
-## 🎥 SECTION 5 — BRAKE UPGRADE
+## Section 9: Problem Check
 
-📷 Shots:
+**Dialogue:**
+"I'm checking for leaks, noises, and making sure everything is running safely."
 
-- Rotor install
-- Caliper install
+## Section 10: Test Drive
 
-🎤 Dialogue:
-"More power means we need stronger brakes. This upgrade is critical."
+**Visual:**
+- Driving clips
+- Turbo spool sound
 
----
+**Dialogue:**
+"It's running on low boost right now, but the difference is already huge."
 
-## 🎥 SECTION 6 — BRAKE LINES & FLUID
+## Outro
 
-🎤 Dialogue:
-"Steel braided lines improve brake feel and consistency under hard braking."
+**Dialogue:**
+"This is just Phase 1. Next, we focus on handling and braking to control this power."
 
----
+## Content Strategy
 
-## 🎥 SECTION 7 — FIRST TEST
-
-📷 Shots:
-
-- First drive
-- Braking test
-
-🎤 Dialogue:
-"The difference is immediate — sharper handling and stronger braking."
-
----
-
-## 🎥 SECTION 8 — DRIVING IMPRESSIONS
-
-🎤 Dialogue:
-"The car feels planted, stable, and much more confidence-inspiring."
-
----
-
-## 🎥 OUTRO
-
-🎤 Dialogue:
-"Now the car has both power and control. Next step — aesthetics and final touches."
-
----
-
-## 🎯 CONTENT TIPS
-
-- Show before/after ride height
-- Capture braking distance difference
-- Use slow-motion suspension shots
-- Add cornering footage
-
----
+- Capture turbo spool sound
+- Show struggles (real build feel)
+- Add cinematic shots of piping and welds
+- Use suspense during first start

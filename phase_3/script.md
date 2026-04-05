@@ -1,124 +1,79 @@
 
-# 🎬 PHASE 3 — AESTHETICS VIDEO SCRIPT
+# Handling & Braking Video Script
 
----
+## Intro Hook
 
-## 🎥 INTRO (HOOK)
+**Visual:**
+- Turbo car driving clip
+- Brake close-ups
 
-📷 Shot:
+**Dialogue:**
+"I've added power… but now I need to control it. Today, we're upgrading handling and braking on my Mitsubishi Cedia Sports."
 
-- Before shots (dents, faded paint, dirty interior)
+## Section 1: Why This Is Important
 
-🎤 Dialogue:
-"The performance is done… now it’s time to transform how this car looks."
+**Dialogue:**
+"Power without control is dangerous. This phase is all about making the car safe and stable."
 
----
+## Section 2: Wheels & Tyres
 
-## 🎥 SECTION 1 — BEFORE CONDITION
+**Visual:**
+- Old vs new wheels
+- Tyre comparison
 
-🎤 Dialogue:
-"This is how the car looks right now — dents, faded paint, and a worn interior."
+**Dialogue:**
+"Wider tyres mean more grip. This alone transforms how the car feels."
 
----
+## Section 3: Suspension
 
-## 🎥 SECTION 2 — BODY REPAIR
+**Visual:**
+- Coilover install
+- Height adjustment
 
-📷 Shots:
+**Dialogue:**
+"Lowering the car improves handling and reduces body roll."
 
-- Sanding
-- Applying filler
+## Section 4: Strut Bar
 
-🎤 Dialogue:
-"Fixing dents is the first step before paint. This is where the transformation begins."
+**Dialogue:**
+"This small upgrade increases chassis stiffness and improves cornering."
 
----
+## Section 5: Brake Upgrade
 
-## 🎥 SECTION 3 — PAINT PROCESS
+**Visual:**
+- Brembo rotor install
+- EBC pad replacement
 
-📷 Shots:
+**Dialogue:**
+"More power means we need stronger brakes. Upgrading to Brembo rotors and EBC pads is critical."
 
-- Spray painting
-- Clear coat shine
+## Section 6: Brake Lines & Fluid
 
-🎤 Dialogue:
-"A fresh coat of paint completely changes the personality of the car."
+**Dialogue:**
+"Steel braided lines improve brake feel and consistency under hard braking."
 
----
+## Section 7: First Test
 
-## 🎥 SECTION 4 — BODY KIT
+**Visual:**
+- First drive
+- Braking test
 
-🎤 Dialogue:
-"Adding these parts gives the car a more aggressive look."
+**Dialogue:**
+"The difference is immediate — sharper handling and stronger braking."
 
----
+## Section 8: Driving Impressions
 
-## 🎥 SECTION 5 — LIGHTING UPGRADE
+**Dialogue:**
+"The car feels planted, stable, and much more confidence-inspiring."
 
-📷 Shots:
+## Outro
 
-- Headlight glow
-- DRLs turning on
+**Dialogue:**
+"Now the car has both power and control. Next step — aesthetics and final touches."
 
-🎤 Dialogue:
-"Lighting upgrades not only look good but improve visibility."
+## Content Tips
 
----
-
-## 🎥 SECTION 6 — WHEELS RESTORATION
-
-🎤 Dialogue:
-"Refinishing the wheels ties the whole look together."
-
----
-
-## 🎥 SECTION 7 — INTERIOR TRANSFORMATION
-
-📷 Shots:
-
-- Seat cleaning
-- Roof liner fix
-
-🎤 Dialogue:
-"The interior is where you spend all your time, so it needs to feel new."
-
----
-
-## 🎥 SECTION 8 — FINAL DETAILING
-
-📷 Shots:
-
-- Foam wash
-- Polishing
-
-🎤 Dialogue:
-"This is where everything comes together."
-
----
-
-## 🎥 FINAL REVEAL
-
-📷 Shots:
-
-- Cinematic shots
-- Rolling shots
-
-🎤 Dialogue:
-"This is the final result — from stock to fully transformed."
-
----
-
-## 🎥 OUTRO
-
-🎤 Dialogue:
-"This build is complete. From maintenance to turbo to full restoration."
-
----
-
-## 🎯 CONTENT TIPS
-
-- Capture BEFORE vs AFTER (very important)
-- Use cinematic slow-motion shots
-- Golden hour shots for final reveal
-- Focus on transformation storytelling
-
----
+- Show before/after ride height
+- Capture braking distance difference
+- Use slow-motion suspension shots
+- Add cornering footage
