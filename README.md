@@ -8,6 +8,8 @@ Hey there! I'm a regular guy passionate about cars, and this repository document
 
 ## 🏁 Quick Overview
 
+![Mitsubishi Cedia Sports Rally Edition](images/cedia_base_image.jpg)
+
 **Vehicle**: 2011 Mitsubishi Cedia Sports Rally Edition
 **Engine**: 4G94 2.0L Petrol, Manual Transmission
 **Color**: Yellow
@@ -41,6 +43,8 @@ Welcome to my personal build diary for my 2011 Mitsubishi Cedia Sports Rally Edi
 
 ### About the Car
 
+![2011 Mitsubishi Cedia Sports Rally Edition](images/cedia_base_image.jpg)
+
 - **Model:** 2011 Mitsubishi Cedia Sports Rally Edition
 - **Engine:** 4G94 2.0L Petrol, Manual
 - **Color:** Yellow (because why not?)
@@ -65,11 +69,11 @@ This is my build's "command center."
 
 | Phase | What’s Happening    | Status      | Notes                                         |
 | ----- | -------------------- | ----------- | --------------------------------------------- |
-| 0     | Planning & Research  | ✅ Complete | All research, budget, and sourcing plans here |
-| 1     | Full Maintenance     | ⏳ Planned  | Waiting for car to hit the garage             |
-| 2     | Turbo System Build   | ⏳ Planned  | Will start after maintenance done             |
-| 3     | Handling & Control   | ⏳ Planned  | Suspension, brakes, wheels—after turbo       |
-| 4     | Aesthetics & Details | ⏳ Planned  | Paint, interior, final touches                |
+| 0     | [Planning & Research](phase_0.md)  | ✅ Complete | All research, budget, and sourcing plans here |
+| 1     | [Full Maintenance](phase_1.md)     | ⏳ Planned  | Waiting for car to hit the garage             |
+| 2     | [Turbo System Build](phase_2.md)   | ⏳ Planned  | Will start after maintenance done             |
+| 3     | [Handling & Control](phase_3.md)   | ⏳ Planned  | Suspension, brakes, wheels—after turbo       |
+| 4     | [Aesthetics & Details](phase_4.md) | ⏳ Planned  | Paint, interior, final touches                |
 
 **Legend:** ✅ Complete | 🔄 In Progress | ⏳ Planned | ⚠️ On Hold
 
@@ -77,15 +81,15 @@ This is my build's "command center."
 
 | File           | What’s Inside                              | How I Use It                |
 | -------------- | ------------------------------------------- | --------------------------- |
-| README.md      | This overview, my main task list            | Always up to date           |
-| tools.md       | Every tool I use, with details              | Referenced in all phases    |
-| consumables.md | All fluids, cleaners, adhesives, etc.       | Shopping and planning       |
-| parts.md       | Every part, spec, and price                 | Sourcing and budgeting      |
-| phase_0.md     | All planning tasks, research, and decisions | My "brain dump" for phase 0 |
-| phase_1.md     | Maintenance work items, status, notes       | Checklist for phase 1       |
-| phase_2.md     | Turbo build tasks, status, issues           | Checklist for phase 2       |
-| phase_3.md     | Handling/brake tasks, status, issues        | Checklist for phase 3       |
-| phase_4.md     | Aesthetics/interior tasks, status, issues   | Checklist for phase 4       |
+| [README.md](README.md)      | This overview, my main task list            | Always up to date           |
+| [tools.md](tools.md)       | Every tool I use, with details              | Referenced in all phases    |
+| [consumables.md](consumables.md) | All fluids, cleaners, adhesives, etc.       | Shopping and planning       |
+| [parts.md](parts.md)       | Every part, spec, and price                 | Sourcing and budgeting      |
+| [phase_0.md](phase_0.md)     | All planning tasks, research, and decisions | My "brain dump" for phase 0 |
+| [phase_1.md](phase_1.md)     | Maintenance work items, status, notes       | Checklist for phase 1       |
+| [phase_2.md](phase_2.md)     | Turbo build tasks, status, issues           | Checklist for phase 2       |
+| [phase_3.md](phase_3.md)     | Handling/brake tasks, status, issues        | Checklist for phase 3       |
+| [phase_4.md](phase_4.md)     | Aesthetics/interior tasks, status, issues   | Checklist for phase 4       |
 
 ## 📈 Progress Tracking
 
@@ -93,11 +97,11 @@ This is my build's "command center."
 
 | Phase          | Start    | End      | Status | Key Notes                            |
 | -------------- | -------- | -------- | ------ | ------------------------------------ |
-| 0: Planning    | Mar 2026 | Apr 2026 | ✅     | All plans, budget, and research done |
-| 1: Maintenance | TBA      | TBA      | ⏳     | Waiting for garage slot              |
-| 2: Turbo Build | TBA      | TBA      | ⏳     | Will start after phase 1             |
-| 3: Handling    | TBA      | TBA      | ⏳     | After turbo, focus on control        |
-| 4: Aesthetics  | TBA      | TBA      | ⏳     | Final phase, make it pretty          |
+| [0: Planning](phase_0.md)    | Mar 2026 | Apr 2026 | ✅     | All plans, budget, and research done |
+| [1: Maintenance](phase_1.md) | TBA      | TBA      | ⏳     | Waiting for garage slot              |
+| [2: Turbo Build](phase_2.md) | TBA      | TBA      | ⏳     | Will start after phase 1             |
+| [3: Handling](phase_3.md)    | TBA      | TBA      | ⏳     | After turbo, focus on control        |
+| [4: Aesthetics](phase_4.md)  | TBA      | TBA      | ⏳     | Final phase, make it pretty          |
 
 ### How I Track Tasks
 
@@ -134,11 +138,13 @@ I’m sharing the whole thing on YouTube: [@narwalbuilds](https://www.youtube.co
 
 ## 🏆 What’s Next?
 
-- [ ] Phase 1: Maintenance – get the car healthy
-- [ ] Phase 2: Turbo install – make it fast (but safe!)
-- [ ] Phase 3: Handling – make it stop and turn
-- [ ] Phase 4: Aesthetics – make it look and feel awesome
+- [ ] [Phase 1: Maintenance – get the car healthy](phase_1.md)
+- [ ] [Phase 2: Turbo install – make it fast (but safe!)](phase_2.md)
+- [ ] [Phase 3: Handling – make it stop and turn](phase_3.md)
+- [ ] [Phase 4: Aesthetics – make it look and feel awesome](phase_4.md)
 
 ---
 
 **This is my build, my mistakes, my wins. If you’re building your own, steal my format, improve it, and let me know how it goes!**
+
+[Phase 1 →](phase_1.md)
